@@ -48,3 +48,6 @@ function createSpiral(n) {
 }
 
 printGrid(createSpiral(10));
+
+// this prints any size grid 
+
