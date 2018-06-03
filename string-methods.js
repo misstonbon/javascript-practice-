@@ -77,11 +77,11 @@ console.log(kanyeOne.startsWith("free"))
 
 // substr()
 // kind of like slice
-// start at 2, count two chars 
+// start at 2, count 4 chars 
 console.log(kanyeTwo.substr(2, 4))
 
 // substring()
-// from one specified index until second e
+// from one specified index until another , in this case from index two to 4
 console.log(kanyeTwo.substring(2, 4))
 
 // toLowerCase()
@@ -93,6 +93,6 @@ console.log(kanyeOne.toUpperCase())
 
 // trim()
 // removes leading and trailing white space
-
 var kanyeThree = "     YEEZUS      ";
 console.log(kanyeThree.trim())
+
